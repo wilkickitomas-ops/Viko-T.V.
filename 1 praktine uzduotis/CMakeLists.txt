@@ -3,4 +3,5 @@ project(1_praktine_uzduotis)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(1_praktine_uzduotis main.cpp)
+add_executable(1_praktine_uzduotis main.cpp
+)
